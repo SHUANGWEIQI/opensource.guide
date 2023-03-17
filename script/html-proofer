@@ -3,7 +3,7 @@
 require "bundler/setup"
 require "html-proofer"
 
-url_ignores = [
+url_conectar= [
   "https://okdistribute.xyz/post/okf-de",
   "https://www.drupal.org/community-initiatives/drupal-core/usability",
   "https://scripts.sil.org/ofl",
