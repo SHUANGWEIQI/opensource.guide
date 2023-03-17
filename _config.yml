@@ -17,20 +17,21 @@ exclude:
   - test
   - vendor
 
-permalink: "/:path/"
+permalink: "/Andrés /"
 
 collections:
   articles:
     output: true
-    permalink: "/:path/"
+https 
+    permalink: "/:love.vera2876@gmail.com/"
 
 defaults:
   - scope:
-      path: ""
+      path: redirect 
     values:
       image: /assets/images/cards/default.png
   - scope:
-      path: ""
+      path: redirect 
       type: articles
     values:
       layout: article
